@@ -1,0 +1,29 @@
+#Reference https://github.com/xl7dev/WebShell/tree/master/Jsp
+
+JspSpy Private Codz By - Ninty_encode.jsp
+JspSpy.jsp
+JspTqz.jsp
+Jsp反弹shell.txt
+Mysql Database.jsp
+Oracle Database.jsp
+SJavaWebManageV1.4.jsp
+Silic Group.jsp
+XXOO.jsp
+by Bagheera.jsp
+cmdjsp.jsp
+devilzShell.jsp
+hahahaha小马.JSp
+jshell ver 0.1.jsp
+jshell ver 1.0.jsp
+jspspy_k8.jsp
+jspy.jsp
+logger小马.jsp
+login.jsp
+上传小马.jsp
+内网扫描header.jsp
+内网探测.jsp
+小马.jsp
+新型JSP小马支持上传任意格式文件.jsp
+灭天远程管理.jsp
+老V.jsp
+苦咖啡专用.jsp

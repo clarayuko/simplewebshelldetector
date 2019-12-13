@@ -1,0 +1,44 @@
+# Reference: https://github.com/ismailtasdelen/shell-backdoor-list/tree/master/shell/asp
+
+aspcmd.asp
+kacak.asp
+newaspcmd.asp
+pouya.asp
+
+# Reference: https://github.com/xl7dev/WebShell/tree/master/Asp
+08小组内部交流专用.asp
+3fexe Shell.asp
+404 infiltrate team.asp
+80sec内部专用过世界杀软休积最小功能超强超猛宇宙第一.asp
+ASP Cmd Shell On IIS 5.1.asp
+ASPYDrvsInfo.asp
+AspRootkit 1.0 by BloodSword.asp
+Aventis KlasVayv 1.0.asp
+CmdAsp.asp
+CyberSpy5.Asp
+DJ团队.asp
+ELMALISEKER Backd00r.asp
+Elmali Seker.asp
+Expdoor.com ASP专用小马.asp
+File upload.asp
+I.N.F HACKING CENTER.asp
+JspWebShell By 绝对零度.asp
+KOA ASP类 WebShell扫描工具.asp
+NTDaddy v1.9.asp
+PcAnywhere提权 Bin版本.asp
+RHTOOLS 1.5 BETA(PVT).asp
+RedHat Hacker.asp
+RedHat Hacker.asp明文版.asp
+mssql.asp
+r00ts小组过防火墙马.asp
+r00ts无FSO组建大马.asp
+radhat.asp
+up.asp
+upfile_write.asp
+xynu-Normal University.asp
+上传小马.asp
+草莓webshell.asp
+虚拟主机提权专用Webshell去后门版.asp
+虚拟机主机提权大马.asp
+银河舰队大马_2014版.asp
+银河舰队大马_2015专版asp大马.asp
